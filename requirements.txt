@@ -3,7 +3,7 @@
 #langchain
 #pymupdf
 unstructured
-markdown
+#markdown
 #chromadb
 tiktoken
 streamlit
