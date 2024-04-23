@@ -18,6 +18,7 @@ _ = load_dotenv(find_dotenv())    # read local .env file
 #export OPENAI_API_KEY=
 #os.environ["OPENAI_API_BASE"] = 'https://api.chatgptid.net/v1'
 #zhipuai_api_key = os.environ['ZHIPUAI_API_KEY']
+zhipuai_api_key = "c2de8d310c710cf31523298b5247dc0f.XRSvi0dDaiShHQ1x"
 
 
 def generate_response(input_text, zhipuai_api_key):
