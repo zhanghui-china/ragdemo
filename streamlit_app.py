@@ -81,7 +81,7 @@ def get_qa_chain(question:str,zhipuai_api_key:str):
 # Streamlit 应用程序界面
 def main():
     st.title('🦜🔗 动手学大模型应用开发')
-    zhipuai_api_key = st.sidebar.text_input('ChatGLM API Key', type='password')
+    #zhipuai_api_key = st.sidebar.text_input('ChatGLM API Key', type='password')
 
     # 添加一个选择按钮来选择不同的模型
     #selected_method = st.sidebar.selectbox("选择模式", ["qa_chain", "chat_qa_chain", "None"])
