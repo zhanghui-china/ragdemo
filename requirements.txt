@@ -2,7 +2,7 @@ zhipuai
 python-dotenv
 langchain
 unstructured
-chromadb==0.3.29
+chromadb
 tiktoken
 streamlit
 #sqlite3
