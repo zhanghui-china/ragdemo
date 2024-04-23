@@ -5,7 +5,7 @@ unstructured
 chromadb
 tiktoken
 streamlit
-pysqlite3
+sqlite3
 pydantic
 fastapi
 nltk
