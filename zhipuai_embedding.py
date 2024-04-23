@@ -15,8 +15,8 @@ class ZhipuAIEmbeddings(BaseModel, Embeddings):
     client: Any
     """`zhipuai.ZhipuAI"""
 
-    #@root_validator(allow_reuse=True)
-    @root_validator()
+    @root_validator(allow_reuse=True)
+    #@root_validator()
     def validate_environment(cls, values: Dict) -> Dict:
         """
         实例化ZhipuAI为values["client"]
