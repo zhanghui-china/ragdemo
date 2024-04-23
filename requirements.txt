@@ -1,29 +1,16 @@
-zhipuai==2.0.1
-python-dotenv==1.0.1
-langchain==0.1.16
-langchain-community==0.0.34
-langchain-core==0.1.45
-langchain-text-splitters==0.0.1
-unstructured==0.13.3
-unstructured-client==0.22.0
+zhipuai
+python-dotenv
+langchain
+unstructured
 chromadb==0.3.29
-tiktoken==0.6.0
-streamlit==1.33.0
+tiktoken
+streamlit
 #sqlite3
-pydantic==2.7.0
-pydantic_core==2.18.1
-fastapi==0.110.2
-nltk==3.8.1
-markdown-it-py==3.0.0
+pydantic
+fastapi
+nltk
+markdown
 
-#pip==23.3.1
-
-#transformers==4.38.2
-#huggingface_hub==0.21.3
-#langchain==0.1.11
-#langchain-community==0.0.29
-#langchain-core==0.1.36
-#langchain-openai==0.1.1
 
 
 
