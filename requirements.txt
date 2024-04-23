@@ -9,7 +9,7 @@ pydantic
 fastapi
 nltk
 markdown
-
+pysqlite3-binary
 
 
 
